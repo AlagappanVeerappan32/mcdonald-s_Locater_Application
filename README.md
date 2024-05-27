@@ -56,7 +56,7 @@ The McDonald's Locator App is a backend service that helps users find the neares
 ## Architecture 
 Here's an overview of the system architecture:
 
-![System Architecture](diagram.png)
+![System Architecture](Architecture.png)
 
 ## Testing
 
